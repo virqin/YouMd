@@ -19,7 +19,7 @@ if __name__  == "__main__":
                       action="store",
                       type="int",
                       dest="port",
-                      default=8081,
+                      default=80,
                       help="Listen Port. default=8081")
     parser.add_option("-H", "--host",
                       action="store",

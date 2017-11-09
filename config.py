@@ -6,9 +6,9 @@ zh_trans = gettext.translation('lang', locale_path, languages=['cn'])
 en_trans = gettext.translation('lang', locale_path, languages=['en'])
 zh_trans.install()
 
-name = u'MarkDown Doc'
-home = 'https://github.com/JoneXiong/YouMd'
-author = 'YouMd'
+name = u'MarkDownDoc'
+home = 'https://github.com/virqin/YouMd'
+author = 'LittleFat'
 disqus = '"xxx"'
 template_dir = 'template'
 entry_dir = 'raw/entry'
